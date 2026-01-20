@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **xyhftd/xyhftd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +19,5 @@ Here are some ideas to get you started:
 </picture>
 
 ![Metrics](/github-metrics.svg)
+
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=xyhftd)

@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 
 ![Metrics](/github-metrics.svg)
 
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=xyhftd)

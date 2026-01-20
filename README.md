@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=xyhftd)
+![Metrics](/github-metrics.svg)
